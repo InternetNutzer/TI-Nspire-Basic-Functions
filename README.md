@@ -6,4 +6,4 @@ Basic TI-Nspire CX / CAS programs and functions, that make you more efficient in
 
 - You can use the functions and programs, by simply pressing the `var` key on your calculator or `strg + L` on PC
 
-- If you dont understand something, simply use the `help()` command
+- If you dont understand something, simply use the `help(0)` command
