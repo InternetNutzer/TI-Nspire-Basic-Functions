@@ -13,7 +13,7 @@ Changelog
 
 1.1
 ---
-* Added Rational Root Theorem
+* Added rrt() -> Rational Root Theorem
 
 1.0.1
 -----
